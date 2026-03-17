@@ -68,4 +68,4 @@ Exploration et visualisation de données football — stats avancées par saison
 
 ---
 
-*Disponible pour missions freelance en remote ou sur site (Sud-Ouest France).*
+*Disponible pour missions freelance en remote.*

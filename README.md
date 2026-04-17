@@ -53,8 +53,8 @@ Football data exploration and visualization — Advanced seasonal statistics.
 |---|---|---|
 | 02–03/2026 | SQL & Reporting Consultant — **Salaisons CROS** | Oracle SQL · Power Query · Excel |
 | 12/2025–01/2026 | AI Solutions Consultant — **Ambriva Partners** | NotebookLM · ElevenLabs · OpenAI |
-| 09/2021–09/2022 | Marketing Data Analyst — **Crédit Mutuel Arkéa** | Power BI · Python · SQL · ML |
 | 10/2022–02/2023 | Data Engineer (IT Dept) — **Alinéa** | Talend · Oracle · SQL |
+| 09/2021–09/2022 | Marketing Data Analyst — **Crédit Mutuel Arkéa** | Power BI · Python · SQL · ML |
 
 ---
 

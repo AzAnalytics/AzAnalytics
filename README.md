@@ -15,12 +15,14 @@ Recent mandates: **Salaisons CROS** (Oracle SQL / Power Query / Excel) · **Ambr
 
 ## 🛠️ Technical Stack
 
-SQL / Oracle SQL      ████████████████████  Production
-Power BI / DAX        ███████████████████░  Production
-Python                ██████████████████░░  Advanced
-Power Query (M)       ██████████████████░░  Advanced
-Streamlit             █████████████████░░░  Advanced
-Talend                ████████████████░░░░  Intermediate
+| Compétence | Niveau | Statut |
+|---|---|---|
+| SQL / Oracle SQL | `████████████████████` | Production |
+| Power BI / DAX | `███████████████████░` | Production |
+| Python | `██████████████████░░` | Advanced |
+| Power Query (M) | `██████████████████░░` | Advanced |
+| Streamlit | `█████████████████░░░` | Advanced |
+| Talend | `████████████████░░░░` | Intermediate |
 
 
 **Languages**: Python · SQL · Oracle SQL · R · HTML/CSS/JS · PHP  

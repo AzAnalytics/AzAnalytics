@@ -1,73 +1,46 @@
-# Alexis Zueras — AZ Analytics
+# Alexis Zueras · AZ Analytics
 
-> **Freelance Data Analyst & BI Consultant | Power BI · Oracle SQL · Python · Streamlit**
-> *Turning raw data into strategic assets.*
+**Consultant freelance Power BI et SQL, reporting pour PME.** Basé dans le Gers, missions à distance ou en hybride.
 
----
+> Des chiffres fiables, et un reporting qui tourne sans son auteur.
 
-## 🧭 About Me
+## Ce que je fais
+- Rapports et tableaux de bord **Power BI** : modèle de données, DAX, Power Query
+- **SQL** (Oracle, PostgreSQL, BigQuery) pour préparer et contrôler les données avant le rapport
+- Automatisation du reporting : fin des fichiers Excel recollés à la main chaque mois
+- Contrôle de la qualité des données avant tout tableau de bord
 
-Founder of **AZ Analytics**, I help SMEs and organizations transform fragmented data into actionable insights. I specialize in building automated reporting systems, decision-making dashboards, and robust data pipelines.
+## Pour qui
+Responsables financiers, DAF, contrôleurs de gestion et dirigeants de PME dont le reporting vit encore sur Excel.
 
-10 years of technical expertise, with the last 5 years dedicated to Data & Business Intelligence.
-Recent mandates: **Salaisons CROS** (Oracle SQL / Power Query / Excel) · **Ambriva Partners** (AI Audio/Video Prototyping).
+## Diagnostic express : 30 minutes, gratuit
+Vous partagez un fichier ou un rapport, je vous dis ce qui peut être automatisé. Sans engagement.
+👉 [Réserver un créneau](https://alexis-zueras.odoo.com/diagnostic-express)
 
----
+## Projets
+Projets personnels, sur données publiques ou simulées (pas des résultats clients).
 
-## 🛠️ Technical Stack
+| Projet | Ce qu'il montre |
+|---|---|
+| [Segmentation-client-RFM](https://github.com/AzAnalytics/Segmentation-client-RFM) | 5 878 clients d'un e-commerce : 20 % d'entre eux font 74 % du chiffre d'affaires |
+| [Retail-Price-Optimization](https://github.com/AzAnalytics/Retail-Price-Optimization) | Élasticité-prix par catégorie : comparer chaque produit à lui-même change la conclusion |
+| [catchment-area-analysis](https://github.com/AzAnalytics/catchment-area-analysis) | Zones de chalandise et choix d'un 5e magasin (modèle de Huff) |
+| [cockpit-retail-platform](https://github.com/AzAnalytics/cockpit-retail-platform) | Pipeline dbt, DuckDB/BigQuery et tableau de bord Streamlit |
+| [Demo_retail_demo](https://github.com/AzAnalytics/Demo_retail_demo) | Tableau de bord et prévisions du CA sur 12 mois pour une enseigne fictive |
 
-| Compétence | Niveau | Statut |
+## Outils
+Power BI · DAX · Power Query · SQL (Oracle, PostgreSQL, BigQuery) · Python (pandas, scikit-learn) · Streamlit · dbt · Talend · Excel
+
+## Parcours
+6 ans dans la data, dont 3 en freelance.
+
+| Période | Poste | Contexte |
 |---|---|---|
-| SQL / Oracle SQL | `████████████████████` | Production |
-| Power BI / DAX | `███████████████████░` | Production |
-| Python | `██████████████████░░` | Advanced |
-| Power Query (M) | `██████████████████░░` | Advanced |
-| Streamlit | `█████████████████░░░` | Advanced |
-| Talend | `████████████████░░░░` | Intermediate |
+| Depuis 09/2023 | Consultant freelance, AZ Analytics | PME, reporting et données |
+| 02-03/2026 | Consultant SQL et reporting, Salaisons CROS | Oracle SQL, Power Query, Excel |
+| 12/2025-01/2026 | Consultant solutions IA, Ambriva Partners | Prototype de contenu audio/vidéo |
+| 10/2022-02/2023 | Data engineer (DSI), Alinéa | Talend, Oracle, SQL (alternance) |
+| 09/2021-09/2022 | Data analyst marketing, Crédit Mutuel Arkéa | Power BI, Python (alternance) |
 
-**Languages**: Python · SQL · Oracle SQL · R · HTML/CSS/JS · PHP
-**BI & Visualization**: Power BI · Streamlit · Tableau · R Shiny
-**Databases**: Oracle DB · PostgreSQL · MongoDB · Firebase
-**Cloud & Ops**: GCP · GitHub · CI/CD · Airflow
-**AI & Automation**: Prompt Engineering · OpenAI API · ElevenLabs · Whisper · NotebookLM
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [invsignal](https://github.com/AzAnalytics/invsignal)
-Signal analysis & trend forecasting.
-`Python` `Data Science` `Analytics`
-
-### 💰 [Retail Price Optimization](https://github.com/AzAnalytics/retail-price-optimization)
-Dynamic pricing strategy using data modeling.
-`SQL` `Python` `Analytics`
-
-### 📍 [Catchment Area Analysis](https://github.com/AzAnalytics/catchment-area-analysis)
-Geographic market analysis & visualization.
-`GIS` `Python` `Data Viz`
-
-### 🛒 [Instacart Market Basket](https://github.com/AzAnalytics/instacart-market-basket)
-Customer purchase pattern analysis.
-`Pandas` `Analysis` `Insights`
-
----
-
-## 📊 Core Experience
-
-| Period | Role | Stack |
-|---|---|---|
-| 02–03/2026 | SQL & Reporting Consultant — **Salaisons CROS** | Oracle SQL · Power Query · Excel |
-| 12/2025–01/2026 | AI Solutions Consultant — **Ambriva Partners** | NotebookLM · ElevenLabs · OpenAI |
-| 10/2022–02/2023 | Data Engineer (IT Dept) — **Alinéa** | Talend · Oracle · SQL |
-| 09/2021–09/2022 | Marketing Data Analyst — **Crédit Mutuel Arkéa** | Power BI · Python
-
----
-
-## 📬 Contact & Links
-
-👉 **[View My Portfolio](https://azanalytics.github.io/portfolio/)**
-
----
-
-*Available for remote freelance opportunities.*
+## Contact
+[Portfolio](https://azanalytics.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/alexis-zueras) · az.analytics.pro@gmail.com

@@ -17,7 +17,7 @@ Finance managers, CFOs, management controllers and SME owners whose reporting st
 
 ## Express diagnostic: 30 minutes, free
 You share a file or a report, I tell you what can be automated. No commitment.
-👉 [Book a slot](https://alexis-zueras.odoo.com/diagnostic-express)
+👉 [Book a slot](https://alexiszueras.fr/diagnostic-express)
 
 ## Projects
 Personal projects on public or simulated data (not client results).

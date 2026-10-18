@@ -17,7 +17,7 @@ Responsables financiers, DAF, contrôleurs de gestion et dirigeants de PME dont 
 
 ## Diagnostic express : 30 minutes, gratuit
 Vous partagez un fichier ou un rapport, je vous dis ce qui peut être automatisé. Sans engagement.
-👉 [Réserver un créneau](https://alexis-zueras.odoo.com/diagnostic-express)
+👉 [Réserver un créneau](https://alexiszueras.fr/diagnostic-express)
 
 ## Projets
 Projets personnels, sur données publiques ou simulées (pas des résultats clients).

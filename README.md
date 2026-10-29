@@ -1,6 +1,6 @@
 # Alexis Zueras · AZ Analytics
 
-**Consultant freelance Power BI et SQL, reporting pour PME.** Basé dans le Gers, missions à distance ou en hybride.
+**Data analyst freelance : Power BI et SQL.** Je rends les chiffres fiables et lisibles : je comprends vite votre métier, je contrôle les données à la source, puis je construis des tableaux de bord clairs. Basé dans le Gers, missions à distance ou en hybride.
 
 > Des chiffres fiables, et un reporting qui tourne sans son auteur.
 
@@ -13,7 +13,7 @@
 - Contrôle de la qualité des données avant tout tableau de bord
 
 ## Pour qui
-Responsables financiers, DAF, contrôleurs de gestion et dirigeants de PME dont le reporting vit encore sur Excel.
+Toute organisation dont les chiffres ne concordent pas d'un fichier ou d'un service à l'autre : PME, ETI, cabinets, directions financières ou opérationnelles.
 
 ## Diagnostic express : 30 minutes, gratuit
 Vous partagez un fichier ou un rapport, je vous dis ce qui peut être automatisé. Sans engagement.
@@ -31,7 +31,7 @@ Projets personnels, sur données publiques ou simulées (pas des résultats clie
 | [Demo_retail_demo](https://github.com/AzAnalytics/Demo_retail_demo) | Tableau de bord et prévisions du CA sur 12 mois pour une enseigne fictive |
 
 ## Outils
-Power BI · DAX · Power Query · SQL (Oracle, PostgreSQL, BigQuery) · Python (pandas, scikit-learn) · Streamlit · dbt · Talend · Excel
+Power BI · DAX · Power Query · SQL (Oracle, PostgreSQL, BigQuery) · Python (pandas, NumPy, scikit-learn, statsmodels) · Streamlit · Plotly · dbt · Talend · Excel
 
 ## Parcours
 6 ans dans la data, dont 3 en freelance.

@@ -2,7 +2,7 @@
 
 🇫🇷 **[Version française](https://github.com/AzAnalytics/AzAnalytics/blob/main/README.md)**
 
-**Freelance Power BI and SQL consultant, reporting for SMEs.** Based in the Gers (France), working remotely or hybrid.
+**Freelance data analyst: Power BI and SQL.** I make figures reliable and readable: I understand your business quickly, check the data at the source, then build clear dashboards. Based in the Gers (France), working remotely or hybrid.
 
 > Reliable figures, and reporting that keeps running without its author.
 
@@ -13,7 +13,7 @@
 - Data quality checks before any dashboard
 
 ## Who it is for
-Finance managers, CFOs, management controllers and SME owners whose reporting still lives in Excel.
+Any organisation whose figures do not match from one file or department to the next: SMEs, mid-size companies, firms, finance or operations teams.
 
 ## Express diagnostic: 30 minutes, free
 You share a file or a report, I tell you what can be automated. No commitment.
@@ -31,7 +31,7 @@ Personal projects on public or simulated data (not client results).
 | [Demo_retail_demo](https://github.com/AzAnalytics/Demo_retail_demo) | Dashboard and 12-month revenue forecast for a fictional retail chain |
 
 ## Tools
-Power BI · DAX · Power Query · SQL (Oracle, PostgreSQL, BigQuery) · Python (pandas, scikit-learn) · Streamlit · dbt · Talend · Excel
+Power BI · DAX · Power Query · SQL (Oracle, PostgreSQL, BigQuery) · Python (pandas, NumPy, scikit-learn, statsmodels) · Streamlit · Plotly · dbt · Talend · Excel
 
 ## Experience
 6 years in data, including 3 as a freelancer.
